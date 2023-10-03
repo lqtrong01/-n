@@ -1,0 +1,11 @@
+﻿  Main.cpp
+D:\NEW\HDT\QLNongTrai\GiaSuc.h(28,16): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\NEW\HDT\QLNongTrai\GiaSuc.h(40,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\NEW\HDT\QLNongTrai\NongTrai.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\NEW\HDT\QLNongTrai\Bo.h(19,15): error C3861: 'MAX': identifier not found
+D:\NEW\HDT\QLNongTrai\NongTrai.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\NEW\HDT\QLNongTrai\Main.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
